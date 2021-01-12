@@ -1,0 +1,6 @@
+.vscode/
+fee-splitter/Include/
+fee-splitter/Lib/
+fee-splitter/Scripts/
+fee-splitter/pyvenv.cfg
+fee-splitter/feesite/.env
